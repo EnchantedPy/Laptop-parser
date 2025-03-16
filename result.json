@@ -1,0 +1,403 @@
+[
+    {
+        "num": 160,
+        "name": "Ноутбук ігровий Gigabyte G6 KF 2024 (G6 KF-H3KZ854KD) Iron Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-g6-kf-2024-g6-kf-h3kz854kd-iron-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/1/5/1588982-491514-01.jpg",
+        "price": {
+            "oldPrice": 49999,
+            "price": 49999,
+            "discount": 0,
+            "bonus": 1.00002,
+            "bonusAmount": 500
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13620H"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4060"
+            }
+        ]
+    },
+    {
+        "num": 949,
+        "name": "Ноутбук ігровий Gigabyte G6 MF (G6 MF-H2KZ853KD) Iron Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-g6-mf-g6-mf-h2kz853kd-iron-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/f/g/fghgjghkh_111111_1.jpg",
+        "price": {
+            "oldPrice": 45999,
+            "price": 43499,
+            "discount": 2500,
+            "discountPercent": 5,
+            "bonus": 1.000023,
+            "bonusAmount": 435
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13620H"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "512 ГБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4050"
+            }
+        ]
+    },
+    {
+        "num": 1010,
+        "name": "Ноутбук ігровий Gigabyte G6 MF (G6 MF-H2KZ854KD) Iron Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-g6-mf-g6-mf-h2kz854kd-iron-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/f/g/fghgjghkh_111111.jpg",
+        "price": {
+            "oldPrice": 48999,
+            "price": 46499,
+            "discount": 2500,
+            "discountPercent": 5,
+            "bonus": 1.0000215,
+            "bonusAmount": 465
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13620H"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4050"
+            }
+        ]
+    },
+    {
+        "num": 1026,
+        "name": "Ноутбук Gigabyte G5 KF 2024 (G5 KF5-53UK353SH) Iron Gray",
+        "url": "https://comfy.ua/ua/noutbuk-gigabyte-g5-kf-2024-g5-kf5-53uk353sh-iron-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/1/_/1_gigabyte_g5_kf_2024_g5_kf5-53uk353sh_iron_gray_1_.jpg",
+        "price": {
+            "oldPrice": 47499,
+            "price": 47499,
+            "discount": 0,
+            "bonus": 1.000021,
+            "bonusAmount": 475
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "15,6\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i5-13500H"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "512 ГБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4060"
+            }
+        ]
+    },
+    {
+        "num": 1027,
+        "name": "Ноутбук ігровий Gigabyte G6X 9MG 2024 (G6X 9MG-42UA853SD) Gunmetal Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-g6x-9mg-2024-g6x-9mg-42ua853sd-gunmetal-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/1/5/1588970-491513-01_1_.jpg",
+        "price": {
+            "oldPrice": 47695,
+            "price": 47695,
+            "discount": 0,
+            "bonus": 1.0001049,
+            "bonusAmount": 477
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13650HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "512 ГБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4050"
+            }
+        ]
+    },
+    {
+        "num": 1298,
+        "name": "Ноутбук ігровий Gigabyte Aorus 16X 9KG (2024) (AORUS 16X 9KG-43UAC54SD) Midnight Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-aorus-16x-9kg-2024-aorus-16x-9kg-43uac54sd-midnight-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/5/2/522803-4-12hththththt.jpg",
+        "price": {
+            "oldPrice": 69999,
+            "price": 63999,
+            "discount": 6000,
+            "discountPercent": 9,
+            "bonus": 1.0000156,
+            "bonusAmount": 640
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13650HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4060"
+            }
+        ]
+    },
+    {
+        "num": 1337,
+        "name": "Ноутбук ігровий Gigabyte Aorus 16X 9KG (2024) (AORUS 16X 9KG-43UAC54SH) Midnight Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-aorus-16x-9kg-2024-aorus-16x-9kg-43uac54sh-midnight-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/a/o/aorus_16x_4060_i7.jpg",
+        "price": {
+            "oldPrice": 71999,
+            "price": 66999,
+            "discount": 5000,
+            "discountPercent": 7,
+            "bonus": 1.000015,
+            "bonusAmount": 670
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13650HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4060"
+            }
+        ]
+    },
+    {
+        "num": 1358,
+        "name": "Ноутбук ігровий Gigabyte Aorus 16X 9SG (2024) (AORUS 16X 9SG-43KZC54SD) Midnight Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-aorus-16x-9sg-2024-aorus-16x-9sg-43kzc54sd-midnight-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/5/2/523223-0-13.jpg",
+        "price": {
+            "oldPrice": 75999,
+            "price": 68999,
+            "discount": 7000,
+            "discountPercent": 9,
+            "bonus": 1.0000145,
+            "bonusAmount": 690
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13650HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4070"
+            }
+        ]
+    },
+    {
+        "num": 1411,
+        "name": "Ноутбук ігровий Gigabyte AORUS_16X_9SG-43KZC54SD",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-aorus-16x-9sg-43kzc54sd.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/a/o/aorus_16x_9sg-43kzc54sd_001.jpg",
+        "price": {
+            "oldPrice": 75999,
+            "price": 75999,
+            "discount": 0,
+            "bonus": 1.0000132,
+            "bonusAmount": 760
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13650HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4070"
+            }
+        ]
+    },
+    {
+        "num": 1526,
+        "name": "Ноутбук ігровий Gigabyte Aorus 16X (2024) (ASG-63UAC64SH) Midnight Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-aorus-16x-2024-asg-63uac64sh-midnight-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/5/2/522819-1-11b.jpg",
+        "price": {
+            "oldPrice": 90999,
+            "price": 90999,
+            "discount": 0,
+            "bonus": 1.000011,
+            "bonusAmount": 910
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i9-14900HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "32 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4070"
+            }
+        ]
+    },
+    {
+        "num": 1797,
+        "name": "Ноутбук ігровий Gigabyte G6X 9KG 2024 (G6X 9KG-43UA854SD) Gunmetal Gray",
+        "url": "https://comfy.ua/ua/noutbuk-igrovoj-gigabyte-g6x-9kg-2024-g6x-9kg-43ua854sd-gunmetal-gray.html",
+        "brand": "Gigabyte",
+        "images": "https://comfy.ua/media/catalog/product/g/i/gigabyte_g6x_a.jpg",
+        "price": {
+            "oldPrice": 53999,
+            "price": 53999,
+            "discount": 0,
+            "bonus": 1.0000185,
+            "bonusAmount": 540
+        },
+        "attributes": [
+            {
+                "label": "Діагональ екрану",
+                "value": "16\""
+            },
+            {
+                "label": "Модель центрального процесора",
+                "value": "Core i7-13650HX"
+            },
+            {
+                "label": "Об'єм ОЗП",
+                "value": "16 ГБ"
+            },
+            {
+                "label": "Об'єм накопичувача",
+                "value": "1 ТБ"
+            },
+            {
+                "label": "Модель графічного процесора",
+                "value": "GeForce RTX 4060"
+            }
+        ]
+    }
+]
